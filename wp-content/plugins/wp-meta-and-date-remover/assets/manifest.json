@@ -1,0 +1,14 @@
+{
+  "src/admin/start.js": {
+    "file": "js/start.js",
+    "src": "src/admin/start.js",
+    "isEntry": true,
+    "css": [
+      "css/start.css"
+    ]
+  },
+  "src/admin/start.css": {
+    "file": "css/start.css",
+    "src": "src/admin/start.css"
+  }
+}
