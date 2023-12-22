@@ -5,20 +5,7 @@ Map creation should be a creative and intuitive process. This is what Atlas Novu
 
 Drawing inspiration from some of the latest UI/UX trends, this build aims to provide creators with everything they could need to create stunning maps, in a way that's intuitive and relatable to other visual creation tools. 
 
-Getting Started
-To get started with this Wordpress landing page, simply install the Saliend theme and the necessary plugins. Customize the landing page content and design to fit your specific needs and branding.
-
-Customization
-Content: Update the content of the landing page to provide information about your product, service, or offering. Use compelling copy and high-quality images to engage visitors and encourage them to take action.
-
-Design: Customize the design of the landing page to match your brand's visual identity. Use the theme's customization options and additional CSS if necessary to create a unique and professional look.
-
-Functionality: Explore additional plugins and features to add functionality to the landing page, such as social media integration, e-commerce capabilities, and more.
-
-Support and Feedback
-If you have any questions or need assistance with setting up or customizing the Wordpress landing page, feel free to reach out for support. Your feedback is also valuable, so please share your thoughts and suggestions for improving the landing page.
-
-Thank you for using the Wordpress landing page using Saliend theme! We hope it helps you create a successful and effective online presence. Work In Progress
+## Work In Progress
 Version 9 (Atlas Novus) is in active development and has not been fully completed. In most instances the nuanced development tasks are tracked locally using tools like Todoist, however, major items will be logged and added to the tasks list if needed.
 
 Version 8.1 is actively maintained, however, feature development will become less involved moving forward. The idea here is that we isolate new features to this version to avoid developing things twice, for two different architectures. 
