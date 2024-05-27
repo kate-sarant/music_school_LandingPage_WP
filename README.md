@@ -12,7 +12,7 @@ This is a landing page created using Wordpress. It is a simple page with a few p
 - [Thank you](#Thankyou)
 
 
-##Plugins Used
+##PluginsUsed
 
 Contact Form 7 with PHPMailer: This plugin is used to create a contact form on the landing page. It allows visitors to easily get in touch with the website owner and provides a seamless communication channel.
 
@@ -39,7 +39,7 @@ If you have any questions or need assistance with setting up or customizing the 
 - Github - [kate-sarant](https://github.com/kate-sarant)
 - email -[kate_sarant](mailto:kate_sarant@yahoo.gr?subject=[GitHub]%20Source%20Han%20Sans)
 
-## Thank you
+## Thankyou
 Thank you for using the Wordpress landing page using Saliend theme! We hope it helps you create a successful and effective online presence.
 
 
