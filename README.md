@@ -7,7 +7,7 @@ This is a landing page created using Wordpress. It is a simple page with a few p
 - [Plugins Used](#Plugins_Used)
 - [Getting Started](#Gettin_Started)
 - [Customization](#Customization)
-- [Functionality](##Functionality)
+- [Functionality](#Functionality)
 - [Design](#Design)
 - [Author](#author)
 - [Thank you](#Thank_you)
@@ -27,11 +27,15 @@ To get started with this Wordpress landing page, simply install the Saliend them
 ## Customization
 Content: Update the content of the landing page to provide information about your product, service, or offering. Use compelling copy and high-quality images to engage visitors and encourage them to take action.
 
-## Design: Customize the design of the landing page to match your brand's visual identity. Use the theme's customization options and additional CSS if necessary to create a unique and professional look.
+## Design:
+Customize the design of the landing page to match your brand's visual identity. Use the theme's customization options and additional CSS if necessary to create a unique and professional look.
 
-## Functionality: Explore additional plugins and features to add functionality to the landing page, such as social media integration, e-commerce capabilities, and more.
+## Functionality: 
+
+Explore additional plugins and features to add functionality to the landing page, such as social media integration, e-commerce capabilities, and more.
 
 ## Support_and_Feedback
+
 If you have any questions or need assistance with setting up or customizing the Wordpress landing page, feel free to reach out for support. Your feedback is also valuable, so please share your thoughts and suggestions for improving the landing page.
 
 ## Author
