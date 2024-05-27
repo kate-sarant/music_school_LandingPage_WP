@@ -4,12 +4,12 @@ This is a landing page created using Wordpress. It is a simple page with a few p
 ## Table of contents
 
 
-- [Plugins Used](#Plugins_Used)
-- [Getting Started](#Getting_Started)
+- [Plugins Used](#PluginsUsed)
+- [Getting Started](#GettingStarted)
 - [Customization](#Customization)
 - [Design](#Design)
 - [Author](#author)
-- [Thank you](#Thank_you)
+- [Thank you](#Thankyou)
 
 
 ##Plugins Used
