@@ -9,10 +9,10 @@ This is a landing page created using Wordpress. It is a simple page with a few p
 - [Customization](#Customization)
 - [Design](#Design)
 - [Author](#author)
-- [Thank you](#Thankyou)
+- [Thank you](#Thank\you)
 
 
-##PluginsUsed
+##Plugins Used
 
 Contact Form 7 with PHPMailer: This plugin is used to create a contact form on the landing page. It allows visitors to easily get in touch with the website owner and provides a seamless communication channel.
 
