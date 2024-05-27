@@ -4,12 +4,12 @@ This is a landing page created using Wordpress. It is a simple page with a few p
 ## Table of contents
 
 
-- [Plugins Used](#Plugins Used)
-- [Getting Started](#Getting Started)
+- [Plugins Used](#Plugins_Used)
+- [Getting Started](#Getting_Started)
 - [Customization](#Customization)
 - [Design](#Design)
 - [Author](#author)
-- [Thank you](#Thank you)
+- [Thank you](#Thank_you)
 
 
 ##Plugins Used
@@ -37,13 +37,12 @@ If you have any questions or need assistance with setting up or customizing the 
 - myportfolio - [Katerina Sarantopoulou](https://myportfolio-katesarant.netlify.app/)
 - Frontend Mentor - [@kate-sarant](https://www.frontendmentor.io/profile/kate-sarant)
 - Github - [kate-sarant](https://github.com/kate-sarant)
-- email -[kate_sarant@yahoo.gr]
+- email -[kate_sarant](mailto:kate_sarant@yahoo.gr?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Thank you
 Thank you for using the Wordpress landing page using Saliend theme! We hope it helps you create a successful and effective online presence.
 
-## License
-This landing page is licensed under the MIT License.
+
 
 
 
